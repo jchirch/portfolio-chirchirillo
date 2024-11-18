@@ -58,7 +58,7 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "./portfolio-chirchirillo-fuse/images/headshot.png"
+avatar: ".images/headshot.png"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
@@ -181,7 +181,12 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
+   <div>
+  I’ve spent much of my life immersed in travel and adventure, taking on odd jobs along the way. From managing a team of emergency maintenance technicians for ski resorts to studying genetics and blacksmithing, I&#39;ve never wanted to reflect on my life and have any &ldquo;what if&rsquo;s.&rdquo; This path has led to countless enriching experiences, but it also brought me to careers where I&rsquo;d quickly hit a plateau. 
+  <br><br>
+  Throughout it all, one constant has been my passion for creative problem solving, learning new skills, and being fascinated by the concept of microscopic, imperceptible things creating real-world impacts. Distilling this constant into what is most important to me, I discovered a passion for software engineering as it perfectly combines all of the elements from my past; the complexities of genetic code, the challenge of puzzles, and artistic expression. 
+  <br><br>
+  My goal is to find a career that continually challenges me to grow with my work and provides the opportunity to collaborate with intelligent, driven individuals.
+</div>
 
 #EOF
